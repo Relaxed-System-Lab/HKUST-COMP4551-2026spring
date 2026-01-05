@@ -26,7 +26,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 |W5 - 03/03,03/05 | - Nvidia GPU Performance      <br> - Collective Communication Library |
 |W6 - 03/10,03/12 | - Data-, Pipeline- Parallel Training  <br> - Tensor Model-, Optimizer- Parallel Training |
 |W7 - 03/17,03/19 | - Sequence-, MoE- parallelism  <br> - Mid-Term Review  |
-|W8 – 03/24,03/26 | - Mid-Term Exam :heavy_check_mark:  <br> - Generative Inference   |
+|W8 – 03/24,03/26 | - Mid-Term Exam <br> - Generative Inference   |
 |W9 - 03/31,04/02 | - Inference Alogirhtm Optimizations  <br> - Inference System Optimizations |
 |W10 - 04/07,04/09| - Spring Break <br> - Prompt Engineering   |
 |W11 - 04/14,04/16 | - Inference Scaling <br> - Retrieval Augmented Generation   |
