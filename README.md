@@ -19,7 +19,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 
 | Date | Topic |
 |-----|------|
-|W1 - 02/03,02/05 | - Introduction and Logistics [[Slides](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%201%20-%20Introduction%20and%20Logistics.pdf)]  <br> - ML Preliminary |
+|W1 - 02/03,02/05 | - Introduction and Logistics [[Slides](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%201%20-%20Introduction%20and%20Logistics.pdf)]  <br> - ML Preliminary [[Slides](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%201%20-%20Introduction%20and%20Logistics.pdf)] |
 |W2 - 02/10,02/12 | - Stochastic Gradient Descent <br> - Automatic Differentiation |
 |W3 - 02/17,02/19 | - Spring Festival |
 |W4 - 02/24,02/26 | - Language Model Architecture <br> - Large Scale Pretrain Overview  |
