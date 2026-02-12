@@ -43,7 +43,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 ## Homework 
 | Topic | Release |   Due   |
 |-------|---------|---------|
-| Homework1 |2025/02/16 | 2025/02/22 |
+| Homework1 |2025/02/16 | 2025/03/02 |
 | Homework2 |2025/03/04 | 2025/03/12 |
 | Homework3 |2025/03/25 | 2025/04/10 |
 | Homework4 |2025/04/22 | 2025/05/06 |
