@@ -22,7 +22,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 |W1 - 02/03,02/05 | - Introduction and Logistics [[Slides](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%201%20-%20Introduction%20and%20Logistics.pdf)]  <br> - ML Preliminary [[Slides](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%201%20-%20Introduction%20and%20Logistics.pdf)] |
 |W2 - 02/10,02/12 | - Stochastic Gradient Descent [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%203%20-%20Stochastic%20Gradient%20Descent.pdf) <br> - Automatic Differentiation [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%204%20-%20Automatic%20Differentiation.pdf) |
 |W3 - 02/17,02/19 | - Spring Festival |
-|W4 - 02/24,02/26 | - Language Model Architecture <br> - Large Scale Pretrain Overview  |
+|W4 - 02/24,02/26 | - Language Model Architecture [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%205%20-%20Language%20Model%20Architecture.pdf) <br> - Large Scale Pretrain Overview  |
 |W5 - 03/03,03/05 | - Nvidia GPU Performance      <br> - Collective Communication Library |
 |W6 - 03/10,03/12 | - Data-, Pipeline- Parallel Training  <br> - Tensor Model-, Optimizer- Parallel Training |
 |W7 - 03/17,03/19 | - Sequence-, MoE- parallelism  <br> - Mid-Term Review  |
@@ -43,8 +43,8 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 ## Homework 
 | Topic | Release |   Due   |
 |-------|---------|---------|
-| Homework1 |2025/02/16 | 2025/03/02 |
-| Homework2 |2025/03/04 | 2025/03/12 |
+| Homework1 |2025/02/22 | 2025/03/04 |
+| Homework2 |2025/03/06 | 2025/03/18 |
 | Homework3 |2025/03/25 | 2025/04/10 |
 | Homework4 |2025/04/22 | 2025/05/06 |
 
