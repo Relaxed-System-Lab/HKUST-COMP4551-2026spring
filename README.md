@@ -44,7 +44,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 | Topic | Release |   Due   |
 |-------|---------|---------|
 | Homework1 |2025/02/22 | 2025/03/04 |
-| Homework2 |2025/03/06 | 2025/03/18 |
+| Homework2 |2025/03/07 | 2025/03/18 |
 | Homework3 |2025/03/25 | 2025/04/10 |
 | Homework4 |2025/04/22 | 2025/05/06 |
 
