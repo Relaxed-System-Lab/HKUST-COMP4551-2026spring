@@ -26,7 +26,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 |W5 - 03/03,03/05 | - Nvidia GPU Performance [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%207%20-%20Nvidia%20GPU%20Performance.pdf)    <br> - Collective Communication Library [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%208%20-%20Nvidia%20Collective%20Communication%20Library.pdf) |
 |W6 - 03/10,03/12 | - Data-, Pipeline- Parallel Training [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%209%20-%20Data%20and%20Pipeline%20Parallel%20Training.pdf)  <br> - Tensor Model-, Optimizer- Parallel Training [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%2010%20-%20Tensor%20Model%20and%20Optimizer%20Parallel%20Training.pdf)|
 |W7 - 03/17,03/19 | - Sequence-, MoE- parallelism [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%2011%20-%20MoE%20and%20Sequence%20Parallelism.pdf) <br> - Mid-Term Review [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%2012%20-%20Midterm%20Review.pdf) |
-|W8 – 03/24,03/26 | - Mid-Term Exam <br> - Generative Inference   |
+|W8 – 03/24,03/26 | - Mid-Term Exam <br> - Generative Inference [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%2013%20-%20Generative%20Inference%20Overview.pdf)  |
 |W9 - 03/31,04/02 | - Inference Alogirhtm Optimizations  <br> - Inference System Optimizations |
 |W10 - 04/07,04/09| - Spring Break <br> - Prompt Engineering   |
 |W11 - 04/14,04/16 | - Inference Scaling <br> - Retrieval Augmented Generation   |
