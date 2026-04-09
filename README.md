@@ -28,7 +28,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 |W7 - 03/17,03/19 | - Sequence-, MoE- parallelism [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%2011%20-%20MoE%20and%20Sequence%20Parallelism.pdf) <br> - Mid-Term Review [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%2012%20-%20Midterm%20Review.pdf) |
 |W8 – 03/24,03/26 | - Mid-Term Exam  :heavy_check_mark: <br> - Generative Inference [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%2013%20-%20Generative%20Inference%20Overview.pdf)  |
 |W9 - 03/31,04/02 | - Inference Alogirhtm Optimizations [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%2014%20-%20Generative%20Inference%20Algorithm%20Optimization.pdf) <br> - Inference System Optimizations [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%2015%20-%20Generative%20Inference%20System%20Optimization.pdf) |
-|W10 - 04/07,04/09| - Spring Break <br> - Prompt Engineering   |
+|W10 - 04/07,04/09| - Spring Break <br> - Prompt Engineering [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%2016%20-%20Prompt%20Engineering.pdf)   |
 |W11 - 04/14,04/16 | - Inference Scaling <br> - Retrieval Augmented Generation   |
 |W12 - 04/21,04/23 | - LLM Agent <br> - Parameter Efficient Fine-Tuning |
 |W13 - 04/28, 04/30| - RL Alignment <br> - LLM Evaluation |
