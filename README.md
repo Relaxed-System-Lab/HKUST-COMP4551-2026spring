@@ -6,7 +6,7 @@
 
 **Lecturer**: [Binhang Yuan](https://binhangyuan.github.io/site/). 
 
-**Teaching Assistant**: TBD
+**Teaching Assistant**: Xu Xu and Jiayi Cheng
 
 
 ## Overview
