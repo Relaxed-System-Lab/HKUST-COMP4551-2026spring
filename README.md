@@ -31,7 +31,7 @@ In recent years, foundation models have fundamentally revolutionized the state-o
 |W10 - 04/07,04/09| - Spring Break <br> - Prompt Engineering [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%2016%20-%20Prompt%20Engineering.pdf)   |
 |W11 - 04/14,04/16 | - Inference Time Scaling [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%2017%20-%20%20Inference%20Time%20Scaling.pdf) <br> - Retrieval Augmented Generation [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%2018%20-%20Retrieval%20Augmented%20Generation.pdf)   |
 |W12 - 04/21,04/23 | - LLM Agent [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%2019%20-%20LLM%20Agent.pdf) <br> - Parameter Efficient Fine-Tuning [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%2020%20-%20Parameter%20Efficient%20Finetuning.pdf) |
-|W13 - 04/28, 04/30| - RL Alignment [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%2021%20-%20RL%20Alignment.pdf) <br> - LLM Evaluation |
+|W13 - 04/28, 04/30| - RL Alignment [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%2021%20-%20RL%20Alignment.pdf) <br> - LLM Evaluation [[Slides]](https://github.com/Relaxed-System-Lab/HKUST-COMP4551-2026spring/blob/main/Lecture%2022%20-%20LLM%20Evaluation.pdf) |
 |W14 - 05/05,05/07 | - Guest Speech  <br> - Final Review |
 
 
